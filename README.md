@@ -126,7 +126,4 @@ report/HPSC.pdf
 
 ---
 
-## 👤 Author
 
-**Dheeraj Reddy**
-HPSC Course — April 2026
